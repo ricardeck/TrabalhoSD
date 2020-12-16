@@ -1,0 +1,4 @@
+br\edu\ifba\ads\sockets\clientThread.class
+br\edu\ifba\ads\sockets\Test.class
+br\edu\ifba\ads\sockets\MultiThreadChatServer.class
+br\edu\ifba\ads\sockets\MultiThreadChatClient.class
