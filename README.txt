@@ -1,2 +1,0 @@
-﻿![](RMI.gif)
-﻿![](Sockets.gif)
